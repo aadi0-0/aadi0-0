@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aadi0-0
 - 👀 I’m interested in coding,development and sports
-- 🌱 I’m currently learning erb development and DSA
+- 🌱 I’m currently learning web development and DSA
 - 💞️ I’m currently learning to work in GSOC
 - 📫 My Linkdin Profile : https://www.linkedin.com/in/aditya-singh-60a865225/
 
